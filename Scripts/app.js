@@ -23,7 +23,7 @@
         console.error("error");
         console.info("Info");
         console.warn("Warn");
-        console.assert(i < 3, "i out of balanc");
+        console.assert(i < 3, "i out of balance");
         if(elementsOfParagraph[i]) 
         {
          elementsOfParagraph[i].innerHTML = paragraph[i];
